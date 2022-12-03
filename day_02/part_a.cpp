@@ -12,10 +12,7 @@ int main(){
     string myline;
     string computer;
     string player;
-    int computer_score = 0;
     int player_score = 0;
-
-    int computer_total_score = 0;
     int player_total_score = 0;
 
     myfile.open("input.txt");
