@@ -49,8 +49,6 @@ int main(){
     {
         if(elf[i]>max)
         {
-            // If current value is greater than max
-            // value then replace it with max value
             max = elf[i];
             index = i;
         }
